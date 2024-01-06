@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-us span{
+color: #FFB228;
+}
+.newsletter{
+    background-color: rgb(103, 148, 244);
+}
